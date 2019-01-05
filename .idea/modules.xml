@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PigHub_Jav.iml" filepath="$PROJECT_DIR$/.idea/modules/PigHub_Jav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PigHub_Jav_main.iml" filepath="$PROJECT_DIR$/.idea/modules/PigHub_Jav_main.iml" group="PigHub_Jav" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PigHub_Jav_test.iml" filepath="$PROJECT_DIR$/.idea/modules/PigHub_Jav_test.iml" group="PigHub_Jav" />
+    </modules>
+  </component>
+</project>
