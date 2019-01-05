@@ -9,7 +9,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/pighub_batch" />
             <option value="$PROJECT_DIR$/pighub_core" />
+            <option value="$PROJECT_DIR$/pighub_web" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />

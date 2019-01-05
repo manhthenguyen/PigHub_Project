@@ -1,3 +1,5 @@
 rootProject.name = 'PigHub_Jav'
 include 'pighub_core'
+include 'pighub_web'
+include 'pighub_batch'
 

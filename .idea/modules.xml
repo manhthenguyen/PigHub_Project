@@ -3,9 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/PigHub_Jav.iml" filepath="$PROJECT_DIR$/.idea/modules/PigHub_Jav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PigHub_Jav_main.iml" filepath="$PROJECT_DIR$/.idea/modules/PigHub_Jav_main.iml" group="PigHub_Jav" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PigHub_Jav_test.iml" filepath="$PROJECT_DIR$/.idea/modules/PigHub_Jav_test.iml" group="PigHub_Jav" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pighub_batch.iml" filepath="$PROJECT_DIR$/.idea/modules/pighub_batch.iml" group="pighub_batch" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pighub_batch/pighub_batch_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pighub_batch/pighub_batch_main.iml" group="pighub_batch" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pighub_batch/pighub_batch_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pighub_batch/pighub_batch_test.iml" group="pighub_batch" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pighub_core.iml" filepath="$PROJECT_DIR$/.idea/modules/pighub_core.iml" group="pighub_core" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pighub_core/pighub_core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pighub_core/pighub_core_main.iml" group="pighub_core" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pighub_core/pighub_core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pighub_core/pighub_core_test.iml" group="pighub_core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pighub_web.iml" filepath="$PROJECT_DIR$/.idea/modules/pighub_web.iml" group="pighub_web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pighub_web/pighub_web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pighub_web/pighub_web_main.iml" group="pighub_web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pighub_web/pighub_web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pighub_web/pighub_web_test.iml" group="pighub_web" />
     </modules>
   </component>
 </project>
